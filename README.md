@@ -37,7 +37,7 @@ Este proyecto es un reproductor de audio y video desarrollado con React.js, que 
 1. Clona el repositorio:
 
 ```bash
-git clone 
+git clone https://github.com/toniramss/ReproductorMultimediaReact.git
 cd reproductor-react
 
 2. Instala dependencias:
